@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Data analytics'
+description: 'Introduction to Data analysis'
 ---
 
 ## MIN, MAX, MEAN, MEDIAN
