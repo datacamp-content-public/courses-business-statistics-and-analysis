@@ -56,7 +56,7 @@ a381b9470e2bca79e6602a2692d26245
 
 ---
 
-## Insert exercise title here
+## MIN, MAX, MEAN, MEDIAN
 
 ```yaml
 type: VideoExercise
