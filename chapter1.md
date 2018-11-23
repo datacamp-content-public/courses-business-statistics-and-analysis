@@ -16,7 +16,7 @@ xp: 50
 
 ---
 
-## Creating a Financial Evaluation Model 
+## Creating a Financial Evaluation Model
 
 ```yaml
 type: VideoExercise
